@@ -1,0 +1,4 @@
+﻿  Authentication.cpp
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\User.h(728,32): warning C4129: e: неизвестная escape-последовательность
+  Authentication.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ZarplataKursach.vcxproj -> D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\x64\Debug\ZarplataKursach.exe
